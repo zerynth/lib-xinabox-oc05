@@ -1,0 +1,16 @@
+---
+description: Module for XinaBox OC05 Servo Driver
+fullname: lib.xinabox.oc05
+info:
+    chip_manufacturer: XinaBox
+    chip_name: OC05
+    name: Servo Driver
+    type: Actuator
+keywords:
+- servo
+- pwm
+- I2C
+- xinabox
+- PCA9685
+title: XinaBox OC05
+...
